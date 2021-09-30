@@ -1,0 +1,1 @@
+This repo contains the code that accompanies my report `Navigating Spatio-Temporal Data with GAMs', which you can find [on my website](https://jameshbailie.github.io/Papers/papers/navigate-GAMs.pdf).
